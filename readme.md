@@ -40,4 +40,4 @@ const anubhav = {
 };
 ```
 
-![Anubhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anubhav9&show_icons=true&theme=radical)
+![Anubhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anubhav9&show_icons=true&theme=radical&count_private=true)
