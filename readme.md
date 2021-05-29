@@ -7,6 +7,8 @@
 
 [![Github: anubhav](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anubhav9)
 
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white)](https://anubhav9.github.io/portfolio_v2/)
+
 
 
 
