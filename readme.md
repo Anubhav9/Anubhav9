@@ -39,3 +39,5 @@ const anubhav = {
     funFact: "There's nothing funny about Programming"
 };
 ```
+
+![Anubhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anubhav9&show_icons=true&theme=radical)
