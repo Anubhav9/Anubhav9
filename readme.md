@@ -42,7 +42,11 @@ const anubhav = {
 
 <h3>Anubhav's Github Stats</h3>
 
+<h6>Summary of Stats</h6>
+
 ![Anubhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anubhav9&show_icons=true&theme=radical&count_private=true)
+
+<h6>My most used Language</h6>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhav9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
